@@ -7,7 +7,7 @@ int main()
     cout<<"enter a number";
     cin>>x;
     float y= (float)x;
-    cout<<y/2 <<endl;
+    cout<<y<<endl;
 
     //char to int
     char ch;
